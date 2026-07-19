@@ -1,0 +1,25 @@
+SaNa HOME-APP – GITHUB PAGES
+
+1. Den gesamten INHALT dieses Ordners in das GitHub-Repository hochladen.
+   index.html muss direkt im Hauptverzeichnis liegen.
+
+2. In GitHub öffnen:
+   Settings > Pages
+
+3. Unter "Build and deployment" auswählen:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+   Danach Save.
+
+4. Die von GitHub angezeigte HTTPS-Adresse auf dem iPhone in Safari öffnen.
+
+5. Safari: Teilen > Zum Home-Bildschirm > Als Web-App öffnen > Hinzufügen.
+
+WICHTIG BEIM NEUEN SYMBOL:
+Falls bereits eine ältere SaNa-App auf dem Home-Bildschirm liegt, diese zuerst löschen
+und danach neu über Safari hinzufügen. iOS aktualisiert Home-App-Symbole häufig nicht automatisch.
+
+DATENSCHUTZ:
+Der Ausweis enthält persönliche Daten. robots.txt und Meta-Tags sperren Suchmaschinen,
+aber jeder mit der genauen GitHub-Pages-Adresse könnte die Seite grundsätzlich öffnen.
